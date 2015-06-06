@@ -1,0 +1,4 @@
+3
+Strawberry 4 1 0 0 
+Coconut 1 0 1 0
+Mango 3 0 0 1
