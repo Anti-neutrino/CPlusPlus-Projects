@@ -17,7 +17,6 @@ public:
 	}
 	IntArray(const IntArray& p)
 	{
-		delete[] arr;
 		arr = new int[p.size];
 		assert(arr);
 		for (int i = 0; i < p.size; i++)
